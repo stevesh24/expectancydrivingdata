@@ -5,7 +5,8 @@ This data set gives the raw data to create expectancy heat maps of driving targe
 There are 3 zipped files (“driving images 1.zip”, “driving images 2.zip”, “driving images 3.zip”).  Each zipped file has 50 jpg images, named “img” + image_id (from 1 to 150) + “_“ + alternative id.   
 
 The file ”questions.pdf” contains the question for each image, in order, giving the observer the driving target to place in the scene.
-The file “heat map data.txt” contains the responses of the 172 online observers.  Each row has the following format: <observer_id image_id x y>
+
+The file “heat map data.txt” contains the responses of the 172 online observers.  Each row has the following format: observer_id image_id x y
 
 The data have been presented at Vision Sciences Society, May 2015, St. Petes Beach, FL: <br>
 Shimozaki, S. S., Hutchinson, C. V., Swan, E. , & Mahal, J. (2015). Aging effects on expectancy use in driving scenes as assessed by the ideal observer. 
