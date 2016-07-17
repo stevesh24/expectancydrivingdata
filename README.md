@@ -12,5 +12,9 @@ observer_id   image_id   x   y
 Analyses of these data has been presented at Vision Sciences Society, May 2015, St. Petes Beach, FL (handout.pdf): <br>
 Shimozaki, S. S., Hutchinson, C. V., Swan, E. , & Mahal, J. (2015). Aging effects on expectancy use in driving scenes as assessed by the ideal observer. 
 
+"Expectancy map.jpg" gives an example of one expectancy map when observers were asked to indicate where they expect a sign for directions.
+
+"Fits to models.jpg" give the fits for younger and older observers to a Bayesian model for this task.  A fit to the weighted model indicates optimal use of expectancy information, and a fit the equal models indicates no use of expectancy information.  The results suggest that younger observers use expectancy, but the older observers did not.  See the poster in "handouts.jpg" for more information.
+
 Any questions about the dataset may be sent to: ibshimo2@gmail.com
 
