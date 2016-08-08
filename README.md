@@ -16,5 +16,7 @@ Shimozaki, S. S., Hutchinson, C. V., Swan, E. , & Mahal, J. (2015). Aging effect
 
 "Fits to models.jpg" give the fits for younger and older observers to a Bayesian model for this task.  A fit to the weighted model indicates optimal use of expectancy information, and a fit the equal models indicates no use of expectancy information.  The results suggest that younger observers use expectancy, but the older observers did not.  See the poster in "handouts.jpg" for more information.
 
+Python code to create heatmaps for these data can be found in "heat_maps.py"
+
 Any questions about the dataset may be sent to: ibshimo2@gmail.com
 
